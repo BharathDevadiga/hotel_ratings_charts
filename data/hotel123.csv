@@ -1,0 +1,93 @@
+hotel_Id,property_name,property_type,room_type,phone_number,city
+1,Hotel Jivan Jyoti,Resort,Deluxe Room,9889182720,Manali
+5,Grand Kakinada by GRT Hotels,Guest House,Deluxe Room With Free WIFI,8739057664,Gurgaon
+7,Hotel Gorakh Haveli,Resort,Standard Room,8739054592,Goa
+16,Mohan Niwas,Cottage,Deluxe Room,8739051520,Manali
+17,Hotel Navrang Kalka,Hotel,Standard Room Non AC,8739048448,Delhi
+25,Hotel Gopi Nivas Grand,Resort,Semi Deluxe,8739045376,Goa
+29,Polo Inn Guest House,Hotel,Deluxe A/C Room,9889179648,Delhi
+32,Hotel The Vaishnodevi,Hotel,Club Room,9889176576,Delhi
+34,Vista Rooms at Jaisalmer Fort,Homestay,Standared Room,9889173504,Jaipur
+36,Kumaran Guest House- Karaikal,Homestay,Deluxe,9889170432,Delhi
+44,Manvar Desert Camp,Hotel,Deluxe Ac Suite with Kitchentte,9889167360,Guwahati
+47,The Blue House Guest House,Guest House,Deluxe Room,9889164288,NOIDA
+50,Kavvayi Beach House,Guest House,Standard Room,9889161216,Delhi
+58,Sadhoo Inn,Villa,Royal Suite,9889158144,Manali
+64,Hotel Prem Plaza,Guest House,AC 1 BHK,7239155712,Goa
+73,Raman Palace,Hotel,Deluxe Room,7239152640,Chennai
+79,Thai Resort,Palace,Royal Tent,7239149568,Chitrasani
+82,Hotel Manglam,Lodge,Luxury Room,7239146496,Sawai Madhopur
+97,Hotel Arul Inn,Hotel,Deluxe,7239143424,Dalhousie
+110,Utsav Hotel,Houseboat,Deluxe Room,7239140352,Alleppey
+123,Hotel Ajanta Haveli,Homestay,Double Room,7239137280,Pune
+125,Singhvi's Haveli,Hotel,NON AC DELUXE,7239134208,Nanded
+141,Hotel Paradise Jaisalmer,Resort,Aqua Super Royal AC (1st &amp; 2nd Floor with Sea View),7239131136,Mandarmani
+147,Mangal Haveli Guest House,Guest House,Triple bed room,8739097600,Yercaud
+150,Subash Guest House,Hotel,Deluxe Room,8739094528,Manali
+155,Vansh Villa,Guest House,Standard Room,8739091456,Gurgaon
+157,Hotel Rangyul Kargil,Houseboat,Super Deluxe,8739088384,Srinagar
+160,The Citi Inn Hotel,Resort,delux room,8739085312,Pune
+162,Club Mahindra Jaisalmer,Lodge,Aircooled,8739082240,Chiplun
+165,Hotel Sky Palace,Service Apartment,1 Bedroom,8739079168,Pune
+170,Prakriti Kasauli,Hotel,Luxury Room,8739076096,Manali
+175,Hotel Maharaja Residency,Hotel,Premium Room,8739073024,Bangalore
+176,S.S.K. INN,Hotel,Non AC Room,8739069952,Bagalkot
+194,The Ummed (Formerly The Taj Gateway),Hotel,Premium Double Room with Breakfast,8739066880,Wayanad
+198,Heritage Kuchaman Haveli,Resort,Cottage Rooms,8739063808,Chandigarh
+208,Kanha Village Eco Resort,Resort,Deluxe Room,8739060736,Mcleodganj
+223,Hotel Grand Horizon,Guest House,Standard A/C Room,8739042304,Goa
+231,Kaav Safari Lodge,Hotel,Deluxe Ac Room,8739039232,Rishikesh
+232,New Blue Homes - Kakinada,Hotel,Suite Room,8739036160,Anantapur
+235,Hari Niwas,Resort,chalet,7239128064,Nainital
+246,Mandore Luxury Guest House,Hotel,Standard Room,7239124992,Palakkad
+247,Hotel Swastik,Houseboat,4 Bed Room A/c DLX 8 PAX,7239121920,Alleppey
+260,Rainbow Suites,Guest House,deluxe room Double,7239118848,Srinagar
+273,Suprabha Residency,Hotel,Executive Room,7239115776,Chennai
+290,A Home for Nature Lovers,Hotel,EXECUTIVE AC ROOM,7239112704,Bangalore
+293,Raj Residency,Hotel,NON Ac Room,7239109632,Pushkar
+296,Nirali Dhani,Homestay,standard room,7239106560,Dapoli Camp
+301,Hotel Shri Ram Excellency,Hotel,Palliyara with Beach View Balcony,7239103488,Calicut
+307,Hotel City Heart,Guest House,Non AC Room,7239100416,Goa
+309,Anantya Resort,Guest House,Awesome Stay double,7239097344,Guwahati
+318,Kanha Resort,Hotel,Superior Double Room,7239094272,Tiruvannamalai
+322,Hotel Sky Park,Guest House,Deluxe Room,7239091200,Hyderabad
+334,Vista Rooms at Airport Road,Hotel,Standard Room,7239088128,Mumbai
+337,Suryagarh Heritage,Hotel,Semi Deluxe AC Rooms,7239085056,Rishikesh
+339,Lords Inn Jodhpur,Hotel,Cooler Room,7239081984,Gwalior
+342,STARiHOTELS Kanker,BnB,AC Room,7239078912,Lucknow
+344,STARiHOTELS CV Singh Colony,Homestay,Non A/C Room,7239075840,Ernakulam
+348,Kumaran Residency Karaikal,Houseboat,4 Bed Room A/c DLX 8 PAX,7239072768,Alleppey
+356,Hotel Marina Mahal,Resort,Ocean Classic,7239069696,Goa
+363,Hotel Jaya Residency,Hostel,AC Private Ensuite,7239066624,Jaipur
+364,Hotel Dhwani,Hotel,Standard Room,9889155072,Noida
+373,Hilarity Inn,Resort,Deluxe A.C,9889152000,Kanha
+377,Hotel Santosh Raj,Homestay,STANDARD ROOM,9889148928,Munnar
+415,Hotel Royal Park,Houseboat,Single bedroom,9889145856,Alleppey
+420,Sparsa Resort,Resort,Executive Garden Room,9889142784,Udaipur
+441,Hotel Asia Vaishno Devi,Hotel,Twin Bed Deluxe,9889139712,Bangalore
+446,Residency Centre Point Guest House,Hotel,Standard Room,9889136640,Faizabad
+457,Hotel Mandakini Palace,Homestay,Non A/c Room,9889133568,Bangalore
+475,Hotel Yashwee International,Resort,Valley Room (Deluxe),9889130496,Munnar
+480,Hotel Red-Oak,Hotel,Deluxe,9889127424,Goa
+492,Kanchi Heritage Inn,Guest House,Deluxe Room,9889124352,Rohtak
+497,Akash Beach Hotel,Resort,AC Double Bed Room,9889121280,Mandarmani
+500,Beach View Homestay,Bungalow,Exquisite 6BHK Bungalow,9889118208,Raigad
+501,Hotel Parvathi Residency,Resort,Deluxe Room,9889115136,Munnar
+520,Himmatgarh Palace,Homestay,Home stay Deluxe Room,9889112064,Chikmagalur
+523,Hotel Baboo Soorya,Service Apartment,Deluxe Room,9889108992,Kolkata
+527,Hotel Panchshil,Resort,Royal Suite,9889105920,Manali
+529,Hotel Green Park,Hotel,DELUXE ROOM,9889102848,Manali
+535,Les 3 Elephants,Guest House,Budget Room,9889099776,Varkala
+541,Kongu Residency,Homestay,STANDARD ROOM,9889096704,Thrissur
+549,Hotel Rajat Executive,Hotel,Double Bed Room,8739155968,Kodaikanal
+553,The Chardham Camp Guptkashi,Homestay,standard room,8739152896,Malwan
+555,Hotel Laal's Inn,Hotel,Deluxe,8739149824,Chennai
+568,Palm Grove Service Villa,Hotel,Deluxe,8739146752,Lucknow
+581,HillScape Khandala,Houseboat,2 Bed Room A/c DLX,8739143680,Alleppey
+585,Vista Rooms at Grand Palace,Hotel,Standard Room,8739140608,Indore
+589,Hotel Sitara International,Hotel,Executive,8739137536,Chennai
+590,Eden Garden Heritage Homestay,Hotel,Deluxe room,8739134464,Sawai Madhopur
+593,Kadaloram Beach Resort,Resort,Cottage Room,8739131392,Wayanad
+594,Infinity Resort,Guest House,Single room with shared bathroom,8739128320,Varanasi
+595,Reds Residency Homestay,Service Apartment,SINGLE BEDROOM,8739125248,Coimbatore
+605,Hotel Prakash,Lodge,Standard Room Ac,8739122176,Chennai
